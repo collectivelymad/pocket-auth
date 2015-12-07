@@ -1,0 +1,24 @@
+{
+  "name": "pocket-auth",
+  "version": "1.0.0",
+  "description": "authenication module for node to easily connect to the Pocket API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collectivelymad/pocket-auth.git"
+  },
+  "keywords": [
+    "pocket",
+    "authentication",
+    "api"
+  ],
+  "author": "mdrexler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collectivelymad/pocket-auth/issues"
+  },
+  "homepage": "https://github.com/collectivelymad/pocket-auth#readme"
+}
