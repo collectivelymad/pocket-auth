@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/collectivelymad/pocket-auth/issues"
   },
-  "homepage": "https://github.com/collectivelymad/pocket-auth#readme"
+  "homepage": "https://github.com/collectivelymad/pocket-auth#readme",
+  "dependencies": {
+    "node-getpocket": "^1.0.0",
+    "node-pocket": "^0.9.4",
+    "pocket-api": "^0.2.3"
+  }
 }
